@@ -7,5 +7,5 @@
 - 💬 Ask me about **Python**.
 - ⚡ Fun fact: I love playing chess and building AI-powered projects!
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=adlost&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adlost&layout=compact&theme=dark)
